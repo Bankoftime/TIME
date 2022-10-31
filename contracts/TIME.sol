@@ -40,9 +40,9 @@ contract TIME is ERC20 {
         }
         
         /**
-         * Prevent overflow after 60 years
+         * Stop at 2050
          */
-        if(Timegose >= 1892160000) return 1152921504606846976000000000000000000;
+        if(Timegose >= 851472000) return 134217728000000000000000000;
         
         /**
          * The current price of TIME is always 2X of the price 365 days ago
