@@ -993,10 +993,8 @@ contract TIME is ERC20 {
   function getPrice() public view returns (uint256) {
     uint256 ticktock;
 
-    if(block.timestamp <= launchTime)
-        return 1000000000000000000;
-    if(block.timestamp >= stableTime)
-        return 271769482082689087500541747;
+    if(block.timestamp <= launchTime) return 1000000000000000000; /* TIME price stablizes at $1 before 2023 Jan 1 */
+    if(block.timestamp >= stableTime) return 271769482082689087500541747; /* TIME price stablizes at $271769482.082689087500541747 after 2050 Dec 31 */
 
     ticktock = block.timestamp - launchTime;
     
