@@ -1,6 +1,6 @@
 # TIME (TIME)
   
-TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2050 Dec 31, and stablizes at $271769482.082689087500541747
+TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2050 Dec 31, and stablizes at $271769482.082689087500541747  
 https://banktime.cc/
 
 ## Binance Main Net
