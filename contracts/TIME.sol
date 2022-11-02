@@ -5,10 +5,13 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "./ABDKMath64x64.sol";
 
 contract TIME is ERC20 {
+
+    /* TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2050 Dec 31, and stablizes at $271769482.082689087500541747 */
+
     mapping(address => bool) public isUSD;
     mapping(address => uint256) public Decimails;
-    uint256 public constant launchTime = 1672531200;
-    uint256 public constant stableTime = 2556100800;
+    uint256 public constant launchTime = 1672531200; /* 2023 Jan 01 00:00:00 GMT+0000 */
+    uint256 public constant stableTime = 2556100800; /* 2050 Dec 31 12:00:00 GMT+0000 */
 
     constructor(address usd1, uint256 usd1decimails, address usd2, uint256 usd2decimails, address usd3, uint256 usd3decimails) ERC20 ('TIME', 'TIME') {
         isUSD[usd1] = true;
@@ -32,22 +35,22 @@ contract TIME is ERC20 {
     }
 
     function getPrice() public view returns (uint256) {
-        uint256 Ticktock;
+        uint256 ticktock;
 
         if(block.timestamp <= launchTime)
-            Ticktock = 0;
-        if(block.timestamp > launchTime && block.timestamp < stableTime)
-            Ticktock = block.timestamp - launchTime;
+            return 1000000000000000000;
         if(block.timestamp >= stableTime)
-            Ticktock = stableTime; // TIME price will stabilize in 2050 at 2556100800
-        
+            return 271769482082689087500541747;
+
+        ticktock = block.timestamp - launchTime;
+      
         /**
          * The current price of TIME is always 2X of the price 365 days ago
-         *   y = 2.000^(Ticktock / 365 days)
+         *   y = 2.000^(ticktock / 365 days)
          */
-        int128 Base = ABDKMath64x64.div(ABDKMath64x64.fromUInt(2000), ABDKMath64x64.fromUInt(1000));
-        int128 Exponential = ABDKMath64x64.div(ABDKMath64x64.fromUInt(Ticktock), ABDKMath64x64.fromUInt(365 days));
-      
+        int128 base = ABDKMath64x64.div(ABDKMath64x64.fromUInt(2000), ABDKMath64x64.fromUInt(1000));
+        int128 exponential = ABDKMath64x64.div(ABDKMath64x64.fromUInt(ticktock), ABDKMath64x64.fromUInt(365 days));
+
         /**
          * Basic logarithm rule:
          *   x = a^(log_a(x))
@@ -56,7 +59,7 @@ contract TIME is ERC20 {
          * When a equals 2
          *   x^y = 2^(y*log_2(x))
          */
-        return ABDKMath64x64.mulu(ABDKMath64x64.exp_2(ABDKMath64x64.mul(Exponential, ABDKMath64x64.log_2(Base))), 1 ether);
+        return ABDKMath64x64.mulu(ABDKMath64x64.exp_2(ABDKMath64x64.mul(exponential, ABDKMath64x64.log_2(base))), 1 ether);
     }
 
     function Buy(address usd, uint256 amount) external returns (bool) {
