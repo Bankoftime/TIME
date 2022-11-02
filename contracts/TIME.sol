@@ -7,11 +7,10 @@ import "./ABDKMath64x64.sol";
 contract TIME is ERC20 {
     mapping(address => bool) public isUSD;
     mapping(address => uint256) public Decimails;
-    uint256 public immutable launchTime;
+    uint256 public constant launchTime = 1672531200;
+    uint256 public constant stableTime = 2556100800;
 
-    constructor(uint256 launchtime, address usd1, uint256 usd1decimails, address usd2, uint256 usd2decimails, address usd3, uint256 usd3decimails) ERC20 ('TIME', 'TIME') {
-        launchTime = launchtime;
-        
+    constructor(address usd1, uint256 usd1decimails, address usd2, uint256 usd2decimails, address usd3, uint256 usd3decimails) ERC20 ('TIME', 'TIME') {
         isUSD[usd1] = true;
         Decimails[usd1] = usd1decimails;
         isUSD[usd2] = true;
@@ -33,23 +32,21 @@ contract TIME is ERC20 {
     }
 
     function getPrice() public view returns (uint256) {
-        uint256 Timegose;
+        uint256 Ticktock;
 
-        if(block.timestamp >= launchTime) {
-            Timegose = block.timestamp - launchTime;
-        }
-        
-        /**
-         * Stop at 2050
-         */
-        if(Timegose >= 851472000) return 134217728000000000000000000;
+        if(block.timestamp <= launchTime)
+            Ticktock = 0;
+        if(block.timestamp > launchTime && block.timestamp < stableTime)
+            Ticktock = block.timestamp - launchTime;
+        if(block.timestamp >= stableTime)
+            Ticktock = stableTime; // TIME price will stabilize in 2050 at 2556100800
         
         /**
          * The current price of TIME is always 2X of the price 365 days ago
-         *   y = 2.000^(Timegose / 365 days)
+         *   y = 2.000^(Ticktock / 365 days)
          */
         int128 Base = ABDKMath64x64.div(ABDKMath64x64.fromUInt(2000), ABDKMath64x64.fromUInt(1000));
-        int128 Exponential = ABDKMath64x64.div(ABDKMath64x64.fromUInt(Timegose), ABDKMath64x64.fromUInt(365 days));
+        int128 Exponential = ABDKMath64x64.div(ABDKMath64x64.fromUInt(Ticktock), ABDKMath64x64.fromUInt(365 days));
       
         /**
          * Basic logarithm rule:
