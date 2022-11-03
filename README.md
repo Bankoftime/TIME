@@ -6,11 +6,9 @@ https://banktime.cc/
 
 ## [TIME is the ultimate currency](https://twitter.com/elonmusk/status/1433713164546293767?s=20&t=LdNQPrzBhgtQsM6VwkpMkA) --Elon Musk
 
-
 ### Binance Main Net
 
 #### [TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)](https://bscscan.com/token/0x6B38d7EFCDF34e4c8A5790e0c246dB6d82CD6253)
-
 
 USD1 (USDT): 0x55d398326f99059fF775485246999027B3197955 (18)  
 
