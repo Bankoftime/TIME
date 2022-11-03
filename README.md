@@ -6,16 +6,6 @@ https://banktime.cc/
 
 [TIME is the ultimate currency](https://twitter.com/elonmusk/status/1433713164546293767?s=20&t=LdNQPrzBhgtQsM6VwkpMkA) -- ELON MUSK
 
-### Ethereum Main Net
-
-#### [TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)](https://etherscan.io/token/0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253)
-
-
-USD1 (USDT): 0xdAC17F958D2ee523a2206206994597C13D831ec7 (6)  
-
-USD2 (USDC): 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 (6)  
-
-USD3 (BUSD): 0x4Fabb145d64652a948d72533023f6E7A623C7C53 (18)  
 
 ### Binance Main Net
 
@@ -27,6 +17,18 @@ USD1 (USDT): 0x55d398326f99059fF775485246999027B3197955 (18)
 USD2 (USDC): 0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d (18)  
 
 USD3 (BUSD): 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56 (18)  
+
+### Ethereum Main Net
+
+#### [TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)](https://etherscan.io/token/0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253)
+
+
+USD1 (USDT): 0xdAC17F958D2ee523a2206206994597C13D831ec7 (6)  
+
+USD2 (USDC): 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 (6)  
+
+USD3 (BUSD): 0x4Fabb145d64652a948d72533023f6E7A623C7C53 (18)  
+
 
 ### Polygon Main Net
 
