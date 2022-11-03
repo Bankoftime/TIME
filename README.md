@@ -1,10 +1,10 @@
 # TIME (TIME)
   
-TIME starts at $1 on 2023 Jan 1, grows 2X every year 
+TIME starts at $1 on 2023 Jan 1, grows 1+1=2X every year 
 until 2050 Dec 31, and stablizes at $272027648.311556749927022714  
 https://banktime.cc/  
 
-[TIME is the ultimate currency](https://twitter.com/elonmusk/status/1433713164546293767?s=20&t=LdNQPrzBhgtQsM6VwkpMkA) -- ELON MUSK
+[TIME is the ultimate currency](https://twitter.com/elonmusk/status/1433713164546293767?s=20&t=LdNQPrzBhgtQsM6VwkpMkA -- ELON MUSK)
 
 
 ### Binance Main Net
