@@ -5,9 +5,8 @@ https://banktime.cc/
 
 ### Ethereum Main Net
 
-#### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)  
+#### [TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)](https://etherscan.io/token/0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253)
 
-https://etherscan.io/token/0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
 
 USD1 (USDT): 0xdAC17F958D2ee523a2206206994597C13D831ec7 (6)  
 
@@ -17,9 +16,8 @@ USD3 (BUSD): 0x4Fabb145d64652a948d72533023f6E7A623C7C53 (18)
 
 ### Binance Main Net
 
-#### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)  
+#### [TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)](https://bscscan.com/token/0x6B38d7EFCDF34e4c8A5790e0c246dB6d82CD6253)
 
-https://bscscan.com/token/0x6B38d7EFCDF34e4c8A5790e0c246dB6d82CD6253  
 
 USD1 (USDT): 0x55d398326f99059fF775485246999027B3197955 (18)  
 
@@ -29,9 +27,8 @@ USD3 (BUSD): 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56 (18)
 
 ### Polygon Main Net
 
-#### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)  
+#### [TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)](https://polygonscan.com/token/0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253)
 
-https://polygonscan.com/token/0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
 
 USD1 (USDT): 0xc2132D05D31c914a87C6611C10748AEb04B58e8F (6)  
 
@@ -41,9 +38,8 @@ USD3 (USDC): 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 (6)
 
 ### Tron Main Net
 
-#### TIME: TXc2rMyqFYxLCghdP84LcrCyLi1pPP7B7m (18)  
+#### [TIME: TXc2rMyqFYxLCghdP84LcrCyLi1pPP7B7m (18)](https://tronscan.org/#/contract/TXc2rMyqFYxLCghdP84LcrCyLi1pPP7B7m)
 
-https://tronscan.org/#/contract/TXc2rMyqFYxLCghdP84LcrCyLi1pPP7B7m  
 
 USD1 (USDT): TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t (6)  
 
