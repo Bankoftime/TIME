@@ -3,9 +3,9 @@
 TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2050 Dec 31, and stablizes at $272027648.311556749927022714  
 https://banktime.cc/  
 
-## Ethereum Main Net
+### Ethereum Main Net
 
-### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)  
+#### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)  
 
 https://etherscan.io/token/0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
 
@@ -15,9 +15,9 @@ USD2 (USDC): 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 (6)
 
 USD3 (BUSD): 0x4Fabb145d64652a948d72533023f6E7A623C7C53 (18)  
 
-## Binance Main Net
+### Binance Main Net
 
-### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)  
+#### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)  
 
 https://bscscan.com/token/0x6B38d7EFCDF34e4c8A5790e0c246dB6d82CD6253  
 
@@ -27,9 +27,9 @@ USD2 (USDC): 0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d (18)
 
 USD3 (BUSD): 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56 (18)  
 
-## Polygon Main Net
+### Polygon Main Net
 
-### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)  
+#### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)  
 
 https://polygonscan.com/token/0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
 
@@ -39,9 +39,9 @@ USD2 (USDC): 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 (6)
 
 USD3 (USDC): 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 (6)  
 
-## Tron Main Net
+### Tron Main Net
 
-### TIME: TXc2rMyqFYxLCghdP84LcrCyLi1pPP7B7m (18)  
+#### TIME: TXc2rMyqFYxLCghdP84LcrCyLi1pPP7B7m (18)  
 
 https://tronscan.org/#/contract/TXc2rMyqFYxLCghdP84LcrCyLi1pPP7B7m  
 
