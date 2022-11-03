@@ -6,12 +6,12 @@ import "./ABDKMath64x64.sol";
 
 contract TIME is ERC20 {
 
-    /* TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2050 Dec 31, and stablizes at $271769482.082689087500541747 */
+    /* TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2050 Dec 31, and stablizes at $272027648.311556749927022714 */
 
     mapping(address => bool) public isUSD;
     mapping(address => uint256) public Decimails;
     uint256 public constant launchTime = 1672531200; /* 2023 Jan 01 00:00:00 GMT+0000 */
-    uint256 public constant stableTime = 2556100800; /* 2050 Dec 31 12:00:00 GMT+0000 */
+    uint256 public constant stableTime = 2556143999; /* 2050 Dec 31 23:59:59 GMT+0000 */
 
     constructor(address usd1, uint256 usd1decimails, address usd2, uint256 usd2decimails, address usd3, uint256 usd3decimails) ERC20 ('TIME', 'TIME') {
         isUSD[usd1] = true;
@@ -38,7 +38,7 @@ contract TIME is ERC20 {
         uint256 ticktock;
 
         if(block.timestamp <= launchTime) return 1000000000000000000; /* TIME price stablizes at $1 before 2023 Jan 1 */
-        if(block.timestamp >= stableTime) return 271769482082689087500541747; /* TIME price stablizes at $271769482.082689087500541747 after 2050 Dec 31 */
+        if(block.timestamp >= stableTime) return 272027648311556749927022714; /* TIME price stablizes at $272027648.311556749927022714 after 2050 Dec 31 */
         
         ticktock = block.timestamp - launchTime;
 
@@ -57,7 +57,7 @@ contract TIME is ERC20 {
          * When a equals 2
          *   x^y = 2^(y*log_2(x))
          */
-        return ABDKMath64x64.mulu(ABDKMath64x64.exp_2(ABDKMath64x64.mul(exponential, ABDKMath64x64.log_2(base))), 1 ether);
+        return ABDKMath64x64.mulu(ABDKMath64x64.exp_2(ABDKMath64x64.mul(exponential, ABDKMath64x64.log_2(base))), 1e18);
     }
 
     function Buy(address usd, uint256 amount) external returns (bool) {
@@ -66,7 +66,7 @@ contract TIME is ERC20 {
         IERC20(usd).transferFrom(msg.sender, address(this), amount);
 
         amount = convert6To18(amount, Decimails[usd]);
-        uint256 time = amount * 1 ether / getPrice();
+        uint256 time = amount * 1e18 / getPrice();
         
         _mint(msg.sender, time);
 
@@ -78,7 +78,7 @@ contract TIME is ERC20 {
 
         _burn(msg.sender, time);
 
-        uint256 _usd = time * getPrice() / 1 ether;
+        uint256 _usd = time * getPrice() / 1e18;
         _usd = convert18To6(_usd, Decimails[usd]);
 
         IERC20(usd).transfer(msg.sender, _usd);
