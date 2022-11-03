@@ -1,11 +1,14 @@
 # TIME (TIME)
   
-TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2050 Dec 31, and stablizes at $272027648.311556749927022714  
-https://banktime.cc/  
+TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2050 Dec 31, 
 
-## Ethereum Main Net
+and stablizes at $272027648.311556749927022714  
 
-### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
+<https://banktime.cc>
+
+### Ethereum Main Net
+
+#### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
 
 USD1: 0xdAC17F958D2ee523a2206206994597C13D831ec7 (6)  
 
@@ -13,9 +16,9 @@ USD2: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 (6)
 
 USD3: 0x4Fabb145d64652a948d72533023f6E7A623C7C53 (18)  
 
-## Binance Main Net
+### Binance Main Net
 
-### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
+#### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
 
 USD1: 0x55d398326f99059fF775485246999027B3197955 (18)  
 
@@ -23,9 +26,9 @@ USD2: 0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d (18)
 
 USD3: 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56 (18)  
 
-## Polygon Main Net
+### Polygon Main Net
 
-### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
+#### TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253  
 
 USD1: 0xc2132D05D31c914a87C6611C10748AEb04B58e8F (6)  
 
@@ -33,9 +36,9 @@ USD2: 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 (6)
 
 USD3: 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 (6)  
 
-## Tron Main Net
+### Tron Main Net
 
-### TIME: TXc2rMyqFYxLCghdP84LcrCyLi1pPP7B7m  
+#### TIME: TXc2rMyqFYxLCghdP84LcrCyLi1pPP7B7m  
 
 USD1: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t (6)  
 
