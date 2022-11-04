@@ -43,3 +43,4 @@ USD1 (USDT): TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t (6)
 
 USD2 (USDC): TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8 (6)  
 
+other blockchains TBD
