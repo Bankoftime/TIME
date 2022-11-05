@@ -25,7 +25,7 @@ USD1 (USDC): 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 (6)
 
 USD2 (BUSD): 0x4Fabb145d64652a948d72533023f6E7A623C7C53 (18)  
 
-### Polygon Main Net
+### Polygon Matic Main Net
 
 #### [TIME: 0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253 (18)](https://polygonscan.com/token/0x6b38d7efcdf34e4c8a5790e0c246db6d82cd6253)
 
