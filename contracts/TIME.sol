@@ -6,12 +6,12 @@ import "./ABDKMath64x64.sol";
 
 contract TIME is ERC20 {
 
-    /* TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2050 Dec 31, and stablizes at $272027648.311556749927022714 */
+    /* TIME starts at $1 on 2023 Jan 1, grows 1+1=2 every year until 2042 Dec 2, and stablizes at $1000000.013139219573684269 */
 
     mapping(address => bool) public isUSD;
     mapping(address => uint256) public Decimails;
     uint256 public constant launchTime = 1672531200; /* 2023 Jan 01 00:00:00 GMT+0000 */
-    uint256 public constant stableTime = 2556143999; /* 2050 Dec 31 23:59:59 GMT+0000 */
+    uint256 public constant stableTime = 2301093147; /* 2042 Dec 2 00:32:27 GMT+0000 */
 
     constructor(address usd1, uint256 usd1decimails, address usd2, uint256 usd2decimails, address usd3, uint256 usd3decimails) ERC20 ('TIME', 'TIME') {
         isUSD[usd1] = true;
@@ -38,7 +38,7 @@ contract TIME is ERC20 {
         uint256 ticktock;
 
         if(block.timestamp <= launchTime) return 1000000000000000000; /* TIME price stablizes at $1 before 2023 Jan 1 */
-        if(block.timestamp >= stableTime) return 272027648311556749927022714; /* TIME price stablizes at $272027648.311556749927022714 after 2050 Dec 31 */
+        if(block.timestamp >= stableTime) return 1000000013139219573684269; /* TIME price stablizes at $1000000.013139219573684269 after 2042 Dec 2 */
         
         ticktock = block.timestamp - launchTime;
 
