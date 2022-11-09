@@ -1,7 +1,7 @@
 # TIME (TIME)
   
 TIME starts at $1 on 2023 Jan 1, grows 1+1=2X every year 
-until stabilized on 2050 Dec 31  
+until stabilized on 2042 Dec 2  
 https://banktime.cc/  
 
 ### Binance Main Net
