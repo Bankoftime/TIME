@@ -35,7 +35,7 @@ USD2 (USDC): 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 (6)
 
 ### Tron Main Net
 
-#### [TIME: TXoCbWbeZVgGixj9vGFYUYephuaJdYMUms (18)](https://tronscan.org/#/address/TXoCbWbeZVgGixj9vGFYUYephuaJdYMUms)
+#### [TIME: TXoCbWbeZVgGixj9vGFYUYephuaJdYMUms (18)](https://tronscan.org/#/contract/TXoCbWbeZVgGixj9vGFYUYephuaJdYMUms)
 
 
 USD1 (USDT): TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t (6)  
