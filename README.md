@@ -25,7 +25,6 @@ After 2024-01-02 03:00 (UTC), any unprocessed or subsequent deposits of BUSD wil
 
 [Paxos BUSD](https://paxos.com/busd/) and its transparency https://paxos.com/busd-transparency/
 
-In the future, if TIME holders and the community collectively decide to upgrade TIME, we will ensure a seamless transition for TIME to achieve a perfect and smooth upgrade.
 
 ### Ethereum Main Net
 
