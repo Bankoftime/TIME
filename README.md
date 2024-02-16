@@ -16,7 +16,7 @@ USD2 (USDC): 0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d (18)
 
 USD3 (BUSD): 0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56 (18) 
 
-### BUSD and TIME upgrade
+### BUSD
 
 According to Paxos and Binance announcements, Paxos no longer mints new BUSD, but allows customers to redeem BUSD for USD or convert their BUSD to USDP. Binance users can convert their BUSD balances to FDUSD at 1:1. **BUSD will always be backed 1:1 by USD.**
 
