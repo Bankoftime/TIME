@@ -53,3 +53,44 @@ USD2 (USDC): 0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174 (6)
 USD1 (USDT): TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t (6)  
 
 USD2 (USDC): TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8 (6)  
+
+### TIME MKJ Morgan Freeman
+Time is the currency of your life, spend it wisely
+
+Don’t let others no matter how well intentioned spend it for you, it’s all you’ve got
+
+In the end, you may falter, but rest assured, time will not
+
+Time is an endless, relentless stream, moving in one direction, while your memories move in another
+
+It is not something you choose, but rather, it is something that chooses you
+
+Ironically, it’s the timeless part of you that understands full well the true value of time
+
+Time, more than treasure, is the greatest gift you can give
+
+It’s about time
+
+It’s about time you do what you were put on earth to do
+
+It’s about time you let go of negative people and habits and move to higher ground
+
+It’s okay to waste time, but only on things you truly love and enjoy
+
+It’s much too precious to waste on anger and fear
+
+Remember time doesn’t change anything, it’s you that changes, everything
+
+We are all traveling through life at the same speed, sixty minutes per hour
+
+And if this is not the hour, when will be?
+
+When will you realize that this is the time of your life?
+
+The past is merely a dream and the future merely a prayer
+
+Your future starts right here, right now, not tomorrow
+
+The most important moment of your life is this one
+
+It’s about time
