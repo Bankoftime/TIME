@@ -4,7 +4,7 @@ TIME starts at $1 on 2023 Jan 1, grows 1+1=2X every year until 2042 Dec 2, and s
 
 https://time-omni.com
 
-https://banktime.cc will be redirected to .com TIME domain
+https://banktime.cc is an old domain not maintained anymore
 
 ### Binance Main Net
 
