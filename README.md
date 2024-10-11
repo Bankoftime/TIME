@@ -4,7 +4,29 @@ TIME starts at $1 on 2023 Jan 1, grows 1+1=2X every year until 2042 Dec 2, and s
 
 https://time-omni.com
 
-https://banktime.cc is an old domain not maintained anymore
+~~~
+2023 $1
+2024 $2
+2025 $4
+2026 $8
+2027 $16
+2028 $32
+2029 $64
+2030 $128
+2031 $256
+2032 $512
+2033 $1024
+2034 $2048
+2035 $4096
+2036 $8192
+2037 $16384
+2038 $32768
+2039 $65536
+2040 $131072
+2041 $262144
+2042 $524288
+2043 $1M
+~~~
 
 ### Binance Main Net
 
