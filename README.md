@@ -1,6 +1,8 @@
-# TIME (TIME)
+# TIME
+
+### TIME Covenant
   
-TIME starts at $1 on 2023 Jan 1, grows 1+1=2X every year until 2042 Dec 2, and stablizes at $1000000.013
+TIME starts at $1 on 2023 Jan 1, grows 1+1=2X every year (365 days) until 2042 Dec 2, and stablizes at $1000000.013
 
 https://time-omni.com
 
