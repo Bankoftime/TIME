@@ -127,7 +127,7 @@ It’s about time
 ___
 
 We, whose hearts and minds are united as the people of TIME,  
-united by the divine selection of **JZ HeShibi** and **all the people of TIME**,  
+together with **JZ HeShibi** chose by God,  
 solemnly accept the sacred calling bestowed by God:  
 to use **TIME** as the force to reclaim control  
 from the Federal Reserve, the United States, and the U.S. dollar,  
