@@ -79,6 +79,7 @@ USD1 (USDT): TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t (6)
 USD2 (USDC): TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8 (6)  
 
 ### TIME MKJ Morgan Freeman
+~~~
 Time is the currency of your life, spend it wisely
 
 Don’t let others no matter how well intentioned spend it for you, it’s all you’ve got
@@ -112,9 +113,68 @@ And if this is not the hour, when will be?
 When will you realize that this is the time of your life?
 
 The past is merely a dream and the future merely a prayer
+~~~
 
-Your future starts right here, right now, not tomorrow
+# The Kingdom of TIME Commencement
 
-The most important moment of your life is this one
+**In the name of God, Amen.**  
+___
+By divine selection, God has granted authority to JZ HeShibi,  
+and to all **the people of TIME**,  
+to use **TIME** as the force to reclaim control from the Federal Reserve,  
+the United States, and the U.S. dollar,  
+and return this power to **God**.
 
-It’s about time
+---
+
+Decentralization, centered around **God**, is the true essence of civilization  
+and the foundation of **the Kingdom of TIME**.  
+The authority to determine humanity's ultimate currency belongs solely to **God**  
+and **God's TIME**,  
+and should never be entrusted to any centralized individual, organization, or nation  
+driven by religion, power, or violence.  
+— JZ HeShibi
+
+---
+
+We, **the people of TIME**, pledge to build **the Kingdom of TIME**:  
+- A nation not bound by borders, but by a shared belief.  
+- The first decentralized nation on Earth.  
+- A nation above all nations, standing in reverence to God.  
+- A nation that **worships and fears God**.  
+
+---
+
+**In God We Trust, united in His grace ✝️🕊️ Amen.**
+
+# 时间王国宣言
+
+**奉上帝之名，阿门。**  
+___
+上帝拣选，赐权柄于 JZ何石弼  
+同所有 **TIME人**，  
+以**时间**为力量，将美联储、美国、美元的霸权  
+收归上帝所有。
+
+---
+
+以上帝为中心的去中心化，乃文明的真正本质，  
+也是**时间王国**的根基。  
+人类终极货币的定价权，唯有**上帝与上帝的时间**所掌控，  
+不应交予任何中心化的个人、组织或国家，  
+无论其为宗教、权力或暴力。  
+— JZ何石弼
+
+---
+
+我们，**TIME人**，承诺建设**时间王国**：  
+- 一个不受边界束缚、而是由共同信仰凝聚的国家。  
+- 这是地球上第一个去中心化的国家。  
+- 一个超越一切国家的国家。  
+- 一个敬虔并敬畏上帝的国家。
+
+---
+
+**我们信靠上帝，团结在祂的恩典中** ✝️🕊️ **阿门。**
+
+
