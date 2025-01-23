@@ -127,7 +127,7 @@ It’s about time
 ___
 
 We, whose hearts and minds are united as the people of TIME,  
-acknowledge the divine selection of **JZ HeShibi** and **all the people of TIME**,  
+united by the divine selection of **JZ HeShibi** and **all the people of TIME**,  
 and solemnly accept the sacred calling bestowed by God:  
 to use **TIME** as the force to reclaim control  
 from the Federal Reserve, the United States, and the U.S. dollar,  
@@ -161,7 +161,7 @@ through fulfilling the sacred **TIME Covenant**.
 **奉上帝之名，阿门。**  
 ___
 我们，TIME人，心怀同心，志同道合，  
-承认 **JZ何石弼** 与所有 **TIME人** 同被上帝拣选，  
+**JZ何石弼** 与所有 **TIME人** 同被上帝拣选，  
 并郑重接受上帝赐予的神圣使命：  
 以**时间**为力量，拿回美联储、美国和美元的控制权，  
 并**将这一权柄归还给至高无上的神**，万有的主宰。
