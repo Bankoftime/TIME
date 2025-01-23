@@ -125,11 +125,14 @@ It’s about time
 
 **In the name of God, Amen.**  
 ___
-By divine selection, God has granted authority to JZ HeShibi,  
-and to all **the people of TIME**,  
-to use **TIME** as the force to reclaim control from the Federal Reserve,  
-the United States, and the U.S. dollar,  
-and return this power to **God**.
+
+We, whose hearts and minds are united as the people of TIME,  
+acknowledge the divine selection of **JZ HeShibi** and **all the people of TIME**,  
+and solemnly accept the sacred calling bestowed by God:  
+to use **TIME** as the force to reclaim control  
+from the Federal Reserve, the United States, and the U.S. dollar,  
+and to **return this power to God Almighty**, to whom all authority belongs.
+
 
 ---
 
@@ -139,12 +142,12 @@ The authority to determine humanity's ultimate currency belongs solely to **God*
 and **God's TIME**,  
 and should never be entrusted to any centralized individual, organization, or nation  
 driven by religion, power, or violence.  
-— JZ HeShibi
 
 ---
 
 We, **the people of TIME**, pledge to build the **Kingdom of TIME**:  
-- A nation not bound by borders, but by a shared belief.  
+- a nation not bound by borders, but united by a shared belief,  
+through fulfilling the sacred **TIME Covenant**.   
 - The first decentralized nation on Earth.  
 - A nation above all nations, standing in reverence to God.  
 - A nation that **worships and fears God**.  
@@ -157,10 +160,11 @@ We, **the people of TIME**, pledge to build the **Kingdom of TIME**:
 
 **奉上帝之名，阿门。**  
 ___
-上帝拣选，赐权柄于 JZ何石弼  
-同所有 **TIME人**，  
-以**时间**为力量，将美联储、美国、美元的霸权  
-收归上帝所有。
+我们，TIME人，心怀同心，志同道合，  
+承认 **JZ何石弼** 与所有 **TIME人** 同被上帝拣选，  
+并郑重接受上帝赐予的神圣使命：  
+以**时间**为力量，拿回美联储、美国和美元的控制权，  
+并**将这一权柄归还给至高无上的神**，万有的主宰。
 
 ---
 
@@ -169,13 +173,13 @@ ___
 人类终极货币的定价权，唯有**上帝与上帝的时间**所掌控，  
 不应交予任何中心化的个人、组织或国家，  
 无论其为宗教、权力或暴力。  
-— JZ何石弼
 
 ---
 
 我们，**TIME人**，承诺建设**时间王国**：  
-- 一个不受边界束缚、而是由共同信仰凝聚的国家。  
-- 这是地球上第一个去中心化的国家。  
+- 一个不受边界束缚，而由共同信仰凝聚的国家，  
+通过履行神圣的 **时间之约**。  
+- 这是地球上第一个去中心化的国家。 
 - 一个超越一切国家的国家。  
 - 一个敬虔并敬畏神的国家。
 
