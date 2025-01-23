@@ -121,7 +121,7 @@ The most important moment of your life is this one
 It’s about time
 ~~~
 
-# The Kingdom of TIME Commencement
+# Kingdom of TIME Commencement
 
 **In the name of God, Amen.**  
 ___
@@ -134,7 +134,7 @@ and return this power to **God**.
 ---
 
 Decentralization, centered around **God**, is the true essence of civilization  
-and the foundation of **the Kingdom of TIME**.  
+and the foundation of the **Kingdom of TIME**.  
 The authority to determine humanity's ultimate currency belongs solely to **God**  
 and **God's TIME**,  
 and should never be entrusted to any centralized individual, organization, or nation  
@@ -143,7 +143,7 @@ driven by religion, power, or violence.
 
 ---
 
-We, **the people of TIME**, pledge to build **the Kingdom of TIME**:  
+We, **the people of TIME**, pledge to build the **Kingdom of TIME**:  
 - A nation not bound by borders, but by a shared belief.  
 - The first decentralized nation on Earth.  
 - A nation above all nations, standing in reverence to God.  
@@ -177,7 +177,7 @@ ___
 - 一个不受边界束缚、而是由共同信仰凝聚的国家。  
 - 这是地球上第一个去中心化的国家。  
 - 一个超越一切国家的国家。  
-- 一个敬虔并敬畏上帝的国家。
+- 一个敬虔并敬畏神的国家。
 
 ---
 
