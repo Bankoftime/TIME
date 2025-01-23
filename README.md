@@ -138,8 +138,8 @@ and to **return this power to God Almighty**, to whom all authority belongs.
 
 Decentralization, centered around **God**, is the true essence of civilization  
 and the foundation of the **Kingdom of TIME**.  
-The authority to determine humanity's ultimate currency belongs solely to **God**  
-and **God's TIME**,  
+The authority to determine humanity's ultimate currency belongs solely to  
+**God** and **God's TIME**,  
 and should never be entrusted to any centralized individual, organization, or nation  
 driven by religion, power, or violence.  
 
