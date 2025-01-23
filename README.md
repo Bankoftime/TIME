@@ -113,6 +113,12 @@ And if this is not the hour, when will be?
 When will you realize that this is the time of your life?
 
 The past is merely a dream and the future merely a prayer
+
+Your future starts right here, right now, not tomorrow
+
+The most important moment of your life is this one
+
+It’s about time
 ~~~
 
 # The Kingdom of TIME Commencement
@@ -176,5 +182,3 @@ ___
 ---
 
 **我们信靠上帝，团结在祂的恩典中** ✝️🕊️ **阿门。**
-
-
