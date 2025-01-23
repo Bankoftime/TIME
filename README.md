@@ -126,12 +126,12 @@ It’s about time
 **In the name of God, Amen.**  
 ___
 
-We, whose hearts and minds are united as **the people of TIME**,  
-together with **JZ HeShibi** chosen by God,  
-solemnly accept the sacred calling bestowed by God:  
-to use **TIME** as the force to reclaim control  
+We, **the people of TIME**, united in heart and purpose,  
+together with **JZ HeShibi**, chosen under God’s divine selection,  
+solemnly accept the sacred calling bestowed upon us by God:  
+to wield **TIME** as the force to reclaim control  
 from the Federal Reserve, the United States, and the U.S. dollar,  
-and to **return this power to God Almighty**, to whom all authority belongs.
+and to **restore this power to God Almighty**, to whom all authority belongs.
 
 
 ---
