@@ -121,7 +121,7 @@ The most important moment of your life is this one
 It’s about time
 ~~~
 
-# Kingdom of TIME Commencement
+# Kingdom of TIME Commencement, la Réforme, Genève🇨🇭
 
 **In the name of God, Amen.**  
 ___
@@ -156,7 +156,7 @@ through fulfilling the sacred **TIME Covenant**.
 
 **In God We Trust, united in His grace ✝️🕊️ Amen.**
 
-# 时间王国宣言
+# 时间王国日内瓦宣言，la Réforme🇨🇭
 
 **奉上帝之名，阿门。**  
 ___
